@@ -1,7 +1,7 @@
 Pasos Ejectuar
 
 Paso 1:
-    En la terminal haga
+    Abra la terminal dentro de Death-Match-Sorting-Data-Structure- y escriba lo siguente:
 
     - make
 
